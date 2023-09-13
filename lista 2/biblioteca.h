@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include 'time'
+#include <time.h>
 void printMatriz(int m[][100],int linhas,int colunas){
     int i,j;
     for(i=0;i<linhas;i++){
