@@ -1,0 +1,11 @@
+C:\Users\15839709670\source\repos\AppFinanciamento\bin\Debug\AppFinanciamento.exe.config
+C:\Users\15839709670\source\repos\AppFinanciamento\bin\Debug\AppFinanciamento.exe
+C:\Users\15839709670\source\repos\AppFinanciamento\bin\Debug\AppFinanciamento.pdb
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.csproj.AssemblyReference.cache
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.Form1.resources
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.Properties.Resources.resources
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.csproj.GenerateResource.cache
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.csproj.CoreCompileInputs.cache
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.exe
+C:\Users\15839709670\source\repos\AppFinanciamento\obj\Debug\AppFinanciamento.pdb
